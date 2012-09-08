@@ -1,0 +1,12 @@
+{
+  "id": "com.choorp.weather-widget",
+  "version": "1.0.0",
+  "vendor": "Choorp Studios",
+  "type": "web",
+  "main": "index.html",
+  "title": "Weather Widget",
+  "icon": "icon-64.png",
+  "miniicon": "icon-mini.png",
+  "splashBackground": "images/splash-background.png",
+  "uiRevision": "2"
+}
